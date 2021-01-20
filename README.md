@@ -15,11 +15,6 @@ Commands of Korou Bot
 <td style="width: 169.6px; text-align: center; height: 18px;">+help = Shows the full list of commands.</td>
 <td style="width: 188px; text-align: center; height: 18px;">help</td>
 </tr>
-<tr style="height: 34px;">
-<td style="width: 104px; text-align: center; height: 34px;">ping</td>
-<td style="width: 169.6px; text-align: center; height: 34px;">+ping = Show the bots average ping.</td>
-<td style="width: 188px; text-align: center; height: 34px;">ping</td>
-</tr>
 <tr style="height: 52px;">
 <td style="width: 104px; text-align: center; height: 52px;">invite</td>
 <td style="width: 169.6px; text-align: center; height: 52px;">+invite = To add / invite the bot to your server.</td>
@@ -63,11 +58,6 @@ Commands of Korou Bot
 <tr style="height: 18px;">
 <td style="width: 104px; height: 18px; text-align: center;">lyrics</td>
 <td style="width: 169.6px; height: 18px; text-align: center;">+lyrics = Get lyrics for the currently playing song.</td>
-<td style="width: 188px; height: 18px; text-align: center;">music</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 104px; height: 18px; text-align: center;">move</td>
-<td style="width: 169.6px; height: 18px; text-align: center;">+move = Move songs around in the queue.</td>
 <td style="width: 188px; height: 18px; text-align: center;">music</td>
 </tr>
 <tr style="height: 18px;">
