@@ -1,5 +1,5 @@
-# KOROU
-Commands of Korou Bot
+# TEO
+Commands list of TEO
 
 <h1 style="text-align: center;"><span style="text-decoration: underline; color: #7289DA;"><em>KOROU</em></span></h1>
 <h2 style="color: #7289DA; text-align: left;"><span style="text-decoration: underline; color: #7289DA;"><em>Music Commands:</em></span></h2>
